@@ -1,7 +1,7 @@
 # web-components-api
 
-# npm install
+npm install
 
-# npm statt
+npm statt
 
-#http://localhost:8080/
+http://localhost:8080/
